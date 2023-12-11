@@ -5,15 +5,15 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2023-09-19T12:37:58.699Z",
-    "end": "2023-09-19T12:37:59.203Z",
-    "duration": 504
+    "start": "2023-12-11T10:03:53.370Z",
+    "end": "2023-12-11T10:03:54.045Z",
+    "duration": 675
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
